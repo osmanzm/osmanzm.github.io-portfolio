@@ -1,0 +1,32 @@
+#mainImg{
+    height: 400px;
+    width: 300px;
+    border-radius: 50%;
+}
+h1{
+    font-family: "Righteous";
+    color: deeppink;
+}
+
+
+.container{
+    height: 500px;
+    width: 400px;
+
+}
+
+.icons{
+    height: 30px;
+    font-size: 3rem;
+    margin-right: 10%;
+    color: deeppink;
+}
+
+#title{
+    margin-left: 35%;
+}
+
+body{
+    background-color: #4DF7EC;
+   /* background-image: url("http://2.bp.blogspot.com/-zWnAQyk4wa0/U1-KxS130HI/AAAAAAAACDk/gLkK9t4q_BA/s1600/pink-rose-garden-wallpaper-456416.jpg");*/
+}
